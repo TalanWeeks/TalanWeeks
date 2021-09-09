@@ -11,4 +11,4 @@ My name's Talan Weeks. Currently I'm a student at Boise CodeWorks, but I aim to 
 * 🌱 I’m currently learning css, html, javascript...and soon to be much more
 * ⚡ Fun fact: I love to snowboard and ski
 * ⚡ Fun fact: I love to go backpacking
-* ⚡ Fun fact: I proabably play too much video games
+* ⚡ Fun fact: My go to RPG role is a Wizard or Healer
