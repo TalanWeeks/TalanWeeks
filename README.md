@@ -13,4 +13,4 @@ My name's Talan Weeks. Currently I'm a student at Boise CodeWorks, but I aim to 
 * ⚡ Fun fact: I love to go backpacking
 * ⚡ Fun fact: My go to RPG role is a Wizard or Healer
 * ⚡ Fun fact: My personality type is Advocate
-* https://github.com/TalanWeeks/TalanWeeks/blob/main/Personal_SWOT_Analysis_Worksheet.pdf
+
