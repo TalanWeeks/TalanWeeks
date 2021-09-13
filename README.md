@@ -14,3 +14,5 @@ My name's Talan Weeks. Currently I'm a student at Boise CodeWorks, but I aim to 
 * ⚡ Fun fact: My go to RPG role is a Wizard or Healer
 * ⚡ Fun fact: My personality type is Advocate
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalanWeeks&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
