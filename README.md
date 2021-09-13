@@ -12,9 +12,11 @@ My name's Talan Weeks. Currently I'm a student at Boise CodeWorks, but I aim to 
 * ⚡ Fun fact: I love to snowboard and ski
 * ⚡ Fun fact: I love to go backpacking
 * ⚡ Fun fact: My go to RPG role is a Wizard or Healer
-* ⚡ Fun fact: My personality type is Advocate
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalanWeeks&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Talan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalanWeeks&theme=radical&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=TalanWeeks)
