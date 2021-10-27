@@ -11,6 +11,7 @@ truly cares about continual education and advancement into other aspects of the 
 
 FIVE STAR QUESTIONS
 1. Describe a time when you had to interact with a difficult client. What was the situation, and how did you handle it?
+
 Situation: When I was working in telecommunications I went to a house for a standard repair, but when I arrived at the house, 
 I was met by a furious customer who was swearing and yelling at me almost instantly about a situation that I didn’t know about.
 
