@@ -9,9 +9,9 @@ My name's Talan Weeks. Currently I'm a student at Boise CodeWorks, but I aim to 
 ## About Me
 
 * 🌱 
-* ⚡ Fun fact: I love to snowboard and ski
-* ⚡ Fun fact: I love to go backpacking
-* ⚡ Fun fact: My go to RPG role is a Wizard or Healer
+* ⚡ I love to snowboard and ski
+* ⚡ I love to go backpacking
+* ⚡ My go to RPG role is a Wizard or Healer
 
 
 
