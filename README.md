@@ -5,6 +5,7 @@ My name's Talan Weeks. Currently I'm a student at Boise CodeWorks, but I aim to 
 ## How to reach me
 
 * 📫 Talan.jakoby.weeks@gmail.com
+* Landing page - https://talanweeks.github.io/Landing-Page/
 
 ## About Me
 
